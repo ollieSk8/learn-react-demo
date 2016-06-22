@@ -1,2 +1,3 @@
 # learn-react-demo
-react webpack learning demo
+react webpack es6 demo
+
